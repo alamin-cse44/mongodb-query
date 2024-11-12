@@ -1,0 +1,1 @@
+# Genearl query of the mongoDB
